@@ -1,0 +1,15 @@
+div{
+    text-align: center;
+}
+input {
+
+    width: 300px;
+    height: 45px;
+    
+}
+::placeholder{
+    padding-left: 5px;
+}
+h4 {
+    color: rgb(91, 23, 154);
+}
